@@ -1,0 +1,25 @@
+body{background-color: aquamarine;}
+
+.container{width: 60%; margin: auto; background-color:whitesmoke; padding: 5px; margin-bottom:5px ;border-radius: 3px;} 
+
+
+
+.ques{
+     display: flex;
+      justify-content: space-between;
+       align-items: center; 
+       padding: 10px;}
+
+h4{width: 70%;margin: 2; }
+
+.ans{  width: 100%;}
+.active p {display: block; padding: 5px;}
+
+ p{display: none; transition: all ease  0.2s;}
+
+i{font-size: 25px;}
+
+.icon1{display: none;}
+
+
+h2{text-align: center;}
